@@ -1,16 +1,31 @@
-## Hi there 👋
+# Islam El-Manhrawy
 
-<!--
-**islam-El-Manhrawy/Islam-El-Manhrawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freshman Engineering Student at Benha National University
+Passionate about Electronics, Robotics, and Cyber Security
 
-Here are some ideas to get you started:
+## Education
+Benha National University - Bachelor of Engineering (2025-2029)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Arduino, Sensors, Robotics
+- MATLAB, Proteus, VS Code
+- Cyber Security Fundamentals
+- Python (Basics)
+
+## Projects
+- Fire Fighting Robot - autonomous detection with Bluetooth control
+- Line Following Robot
+- DIA-CARe Smart Insole - pressure/temperature sensors for diabetic foot prevention
+
+## Achievements
+- 2nd Place - University Robotics Competition
+- Top 3 - Rally Egypt among all university teams
+
+## Activities
+- Robotics Track Member - GDG On Campus Zagazig University
+- Cyber Security Track Member - GDG On Campus Benha National University
+- Member - IEEE RAS Zagazig Student Chapter
+
+## Contact
+- Email: es62597657@gmail.com
+- LinkedIn: https://www.linkedin.com/in/islam-el-manhrawy-412884313
